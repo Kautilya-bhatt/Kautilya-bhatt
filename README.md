@@ -1,27 +1,78 @@
-# 💫 About Me:
-🔭 I’m currently working on<br><br>Building full-stack web applications and refining my Data Structures & Algorithms logic to write cleaner, more efficient code.<br>👯 I’m looking to collaborate on<br><br>Open-source Web Development projects or any creative Python/Java applications that solve real-world problems.<br>🤝 I’m looking for help with<br><br>Advanced System Design concepts and optimizing complex algorithms in Java.<br>🌱 I’m currently learning<br><br>The nuances of Pythonic coding and deep-diving into Backend Frameworks (like Spring Boot or Django) to complement my web tech skills.<br>💬 Ask me about<br><br>The transition from Java to Python, building responsive UI, or why I think Array manipulation is the ultimate brain teaser.<br>⚡ Fun fact<br><br>I named myself after a master strategist, but I still spend 45 minutes "strategizing" why a single missing semicolon broke my entire build.
+<h1 align="center">✨ Kautilya Bhatt ✨</h1>
+<h3 align="center">🚀 Future Full Stack Developer | BCA Student</h3>
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/kautilya2005?igsh=bzRjeGV2bmF3Z2g0) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kautilyabhatt2005) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://pin.it/F2yn7FmHK) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kautilyabhatt123@gmail.com) 
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Kautilya-bhatt&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Kautilya-bhatt&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kautilya-bhatt&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Kautilya-bhatt&theme=noctis_minimus&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Kautilya-bhatt&limit=5&theme=onedark&combine_all_yearly_contributions=true)
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Hi+I'm+Kautilya+Bhatt;Java+%7C+Python+Developer;Web+Dev+Learner;DSA+Enthusiast🔥" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Kautilya-bhatt&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧑‍💻 About Me
+- 🎓 BCA Student (2nd Semester)
+- 💻 Learning **Java, Python & Web Development**
+- 🔥 Passionate about **DSA & Backend**
+- 🧠 Love solving coding problems
+- 🎯 Goal: Become a **Full Stack Developer**
+
+---
+
+## 🌐 Connect With Me
+<p align="center">
+<a href="https://instagram.com/"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white"/></a>
+<a href="https://linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/></a>
+<a href="https://pinterest.com/"><img src="https://img.shields.io/badge/Pinterest-E60023?logo=pinterest&logoColor=white"/></a>
+</p>
+
+---
+
+## 🛠️ Tech Stack
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,java,python,bootstrap,git,github,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Kautilya-bhatt&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=Kautilya-bhatt&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 💻 Top Languages
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kautilya-bhatt&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🏆 Achievements
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Kautilya-bhatt&theme=onedark&no-frame=true&row=1" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+<p align="center">
+<img src="https://github.com/Kautilya-bhatt/Kautilya-bhatt/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## ✨ Random Dev Quote
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+---
+
+## 👀 Profile Views
+<p align="center">
+<img src="https://visitcount.itsvg.in/api?id=Kautilya-bhatt&icon=5&color=0" />
+</p>
+
+---
+
+<h3 align="center">🔥 "Code. Create. Conquer." 🔥</h3>
