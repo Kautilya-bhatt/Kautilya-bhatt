@@ -21,10 +21,28 @@
 
 ## 🌐 Connect With Me
 <p align="center">
-<a href="https://instagram.com/"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white"/></a>
-<a href="https://linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/></a>
-<a href="https://pinterest.com/"><img src="https://img.shields.io/badge/Pinterest-E60023?logo=pinterest&logoColor=white"/></a>
+
+<a href="https://instagram.com/kautilya2005" target="_blank">
+  <img src="https://cdn.simpleicons.org/instagram/E4405F" height="40"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://linkedin.com/in/kautilyabhatt2005" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" height="40"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://pinterest.com/KB_Trends" target="_blank">
+  <img src="https://cdn.simpleicons.org/pinterest/E60023" height="40"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+
+<a href="mailto:kautilyabhatt123@gmail.com">
+  <img src="https://cdn.simpleicons.org/gmail/EA4335" height="40"/>
+</a>
+
 </p>
+
 
 ---
 
