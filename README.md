@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/Kautilya-bhatt/Kautilya-bhatt/blob/main/file_00000000a10471fa91958460c4b35360.png" />
+</p>
 <h1 align="center">✨ Kautilya Bhatt ✨</h1>
 <h3 align="center">🚀 Future Full Stack Developer | BCA Student</h3>
 
