@@ -11,7 +11,7 @@
 ---
 
 ## 🧑‍💻 About Me
-- 🎓 BCA Student (2nd Semester)
+- 🎓 BCA Student (4th Semester)
 - 💻 Learning **Java, Python & Web Development**
 - 🔥 Passionate about **DSA & Backend**
 - 🧠 Love solving coding problems
