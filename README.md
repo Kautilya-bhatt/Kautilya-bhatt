@@ -32,7 +32,7 @@
 </a>
 &nbsp;&nbsp;&nbsp;
 
-<a href="https://pinterest.com/KB_Trends" target="_blank">
+<a href="https://in.pinterest.com/AK_Trends/" target="_blank">
   <img src="https://cdn.simpleicons.org/pinterest/E60023" height="40"/>
 </a>
 &nbsp;&nbsp;&nbsp;
